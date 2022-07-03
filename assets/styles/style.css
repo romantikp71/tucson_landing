@@ -164,6 +164,20 @@ header ul li a {
     clip-path: circle(600px at right 800px);
 }
 
+footer {
+    position: relative;
+    background-color: rgb(153, 201, 22);
+}
+
+footer p {
+    text-align: center;
+    padding: 20px 20px;
+    /* position: relative;
+    left: 30%;
+    top: 20px;
+    display: flex; */
+}
+
 @media (max-width: 991px) 
 {
     header {
